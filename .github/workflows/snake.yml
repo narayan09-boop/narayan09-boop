@@ -14,10 +14,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: narayan09-boop
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
