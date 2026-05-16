@@ -1,4 +1,3 @@
-````md
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Systems+That+Think+🧠"/>
 </h1>
@@ -48,7 +47,7 @@ class Narayan:
     def life(self):
 
         return "🏋️ Gym + 💻 Code + 🎬 Creativity"
-````
+
 
 * 🤖 Building AI-powered Discord bots with memory & automation
 * 🧠 Exploring Emotion Detection & Recommendation Systems
