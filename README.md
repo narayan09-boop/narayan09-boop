@@ -1,4 +1,4 @@
-```md id="8d2p1u"
+md id="8d2p1u"
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Cool+Things+With+AI+🧠"/>
 </h1>
@@ -165,4 +165,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
-```
+
