@@ -1,61 +1,79 @@
 ````md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Narayan+%F0%9F%91%8B;AI+%26+ML+Developer+%F0%9F%A4%96;Discord+Bot+Engineer+%F0%9F%8E%B5;Creative+Editor+%26+Storyteller+%F0%9F%8E%AC;Building+systems+that+think+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+%F0%9F%91%8B+I'm+Narayan;AI+%26+ML+Developer+%F0%9F%A4%96;Discord+Bot+Engineer+%F0%9F%8E%B5;Creative+Editor+%26+Storyteller+%F0%9F%8E%AC;Building+Systems+That+Think+%F0%9F%A7%A0" />
 </h1>
 
+<h3 align="center">
+  🚀 AI & ML Student | 🤖 Tech Builder | 🎬 Editor & Creative Developer
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NarayanKamal&label=Profile+Views&color=7F3FBF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/NarayanKamal?style=for-the-badge&color=7F3FBF" />
-  <img src="https://img.shields.io/github/stars/NarayanKamal?affiliations=OWNER&style=for-the-badge&color=7F3FBF" />
+  <a href="https://github.com/narayan09-boop">
+    <img src="https://komarev.com/ghpvc/?username=narayan09-boop&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
+  </a>
+
+  <img src="https://img.shields.io/github/followers/narayan09-boop?style=for-the-badge&color=8A2BE2"/>
+
+  <img src="https://img.shields.io/github/stars/narayan09-boop?affiliations=OWNER&style=for-the-badge&color=8A2BE2"/>
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me
 
 ```python
-class Narayan():
+class Narayan:
 
     def __init__(self):
         self.role = "AI & ML Student"
-        self.language_spoken = ["Python", "C++", "JavaScript"]
-        self.current_focus = [
-            "Emotion Detection",
-            "AI Automation",
-            "Discord Bots",
-            "Fraud Detection"
+        self.passion = [
+            "Artificial Intelligence",
+            "Automation",
+            "Creative Development",
+            "Visual Storytelling"
         ]
 
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
+    def current_focus(self):
+        return [
+            "Emotion Detection",
+            "AI Discord Bots",
+            "Fraud Detection Systems",
+            "AI Voice Agents"
+        ]
+
+    def life(self):
+        return "Gym 🏋️ + Code 💻 + Creativity 🎬"
 ````
 
-🎓 AI & ML Student
-🤖 Building intelligent systems that *see, feel & think*
-🎬 Videographer + Editor
-🏋️ Gym Rat + Tech Geek
-🎵 Mixing music, creativity & code into real products
+* 🤖 Building AI-powered Discord bots with memory & automation
+* 🧠 Exploring Emotion Detection & Recommendation Systems
+* 🎙️ Developing real-time AI Voice Agents
+* 🎬 Passionate about cinematography, editing & storytelling
+* 🚀 Love creating products that feel futuristic
+* 💡 Learning fast, experimenting faster
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Tech Arsenal
 
-## 💻 Languages
+### 💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql" />
 </p>
 
-## 🤖 AI / ML
+### 🤖 AI / ML
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-## ⚙️ Tools & Platforms
+### ⚙️ Backend & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,github,vscode,git,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -63,13 +81,21 @@ class Narayan():
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NarayanKamal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narayan09-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NarayanKamal&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan09-boop&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NarayanKamal&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan09-boop&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=narayan09-boop&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -77,7 +103,7 @@ class Narayan():
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NarayanKamal&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=narayan09-boop&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -88,23 +114,27 @@ class Narayan():
 <tr>
 <td width="50%">
 
-### 🤖 Emotion Aware Discord Bot
+## 🤖 Emotion Aware Discord Bot
 
-* Memory system
-* AI conversation
-* Emotion detection
-* MongoDB integration
+✨ Features:
+
+* AI Conversations
+* Emotion Detection
+* Memory System
+* MongoDB Integration
 
 </td>
 
 <td width="50%">
 
-### 🎵 Advanced Music Bot
+## 🎵 Advanced Music Bot
 
-* Spotify integration
-* Queue management
-* Audio filters
-* Slash commands
+✨ Features:
+
+* Spotify Support
+* Audio Filters
+* Queue Management
+* Slash Commands
 
 </td>
 </tr>
@@ -112,21 +142,27 @@ class Narayan():
 <tr>
 <td width="50%">
 
-### 🧬 Fraud Detection System
+## 🧬 Fraud Detection System
 
-* ML pipeline
-* `.pkl` models
-* Real transaction analysis
+✨ Features:
+
+* ML Pipeline
+* Real `.pkl` Models
+* Transaction Analysis
+* Data Visualization
 
 </td>
 
 <td width="50%">
 
-### 🎙️ AI Voice Agent
+## 🎙️ AI Voice Agent
 
-* Twilio integration
-* ElevenLabs voice AI
-* Google Calendar automation
+✨ Features:
+
+* Twilio Calling
+* ElevenLabs Voice
+* Calendar Automation
+* Human-like Conversations
 
 </td>
 </tr>
@@ -134,10 +170,10 @@ class Narayan():
 
 ---
 
-# 📈 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NarayanKamal/NarayanKamal/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/narayan09-boop/narayan09-boop/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -146,15 +182,15 @@ class Narayan():
 
 <p align="center">
   <a href="mailto:nk09092004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/narayan-kamal-311169285">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://github.com/narayan09-boop">
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 
-  <a href="https://github.com/NarayanKamal">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
@@ -162,7 +198,11 @@ class Narayan():
 
 <h3 align="center">
 
-✨ "Code. Create. Conquer." ✨
+✨ Code. Create. Conquer. ✨
 
 </h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</p>
 ```
