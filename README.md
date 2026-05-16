@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Cool+Things+With+AI+🧠"/>
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+I%27m+Narayan;AI+%26+ML+Developer;Discord+Bot+Engineer;Creative+Editor;Building+Cool+Things+With+AI"/> </h1>
 
 <h3 align="center">
   🚀 AI & ML Student | 🤖 Tech Builder | 🎬 Creative Developer
@@ -16,9 +14,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn"/> </p>
 
 
 # 💫 About Me
@@ -72,61 +68,40 @@
 
 ---
 
+
+
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 📌 Taskora  
+Full-Stack Productivity Platform with task management, AI assistant, financial planning, Stripe integration & automated summaries.
 
-<td width="50%">
+🔗 <a href="[YOUR_TASKORA_GITHUB_LINK](https://github.com/narayan09-boop/Taskora)">View Project</a>
 
-### 🤖 Emotion Aware Discord Bot
+<br>
 
-- AI Conversations
-- Emotion Detection
-- Memory System
-- MongoDB Integration
+## 📊 NarrativeRisk  
+AI-powered predictive loan risk platform with FastAPI backend, ETL pipelines & financial forecasting.
 
-</td>
+🔗 <a href="[YOUR_NARRATIVERISK_GITHUB_LINK](https://github.com/narayan09-boop/Narrative-risk-ai)">View Project</a>
 
-<td width="50%">
+<br>
 
-### 🎵 Advanced Music Bot
+## 🤖 Project Omnix  
+Personal AI automation suite featuring voice control, emotion detection, persistent memory & system automation.
 
-- Spotify Support
-- Audio Filters
-- Queue Management
-- Slash Commands
+🔗 <a href="[YOUR_OMNIX_GITHUB_LINK](https://github.com/narayan09-boop/project-omnix)">View Project</a>
 
-</td>
+<br>
 
-</tr>
+## 🏆 Competitive Achievements
 
-<tr>
+- 🥇 NatWest Code For Purpose Finalist
+- 🚀 Top 53 Teams Nationwide
+- 🧠 Amazon ML Challenge Finalist
+- 📊 Top 100 Teams Nationwide
+- 🎓 Tata Steel Foundation Scholar
 
-<td width="50%">
 
-### 🧬 Fraud Detection System
-
-- ML Pipeline
-- Real `.pkl` Models
-- Transaction Analysis
-
-</td>
-
-<td width="50%">
-
-### 🎙️ AI Voice Agent
-
-- Twilio Calling
-- ElevenLabs Voice
-- Smart Automation
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 🐍 Contribution Snake
 
