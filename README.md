@@ -1,5 +1,6 @@
+```md id="8d2p1u"
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Systems+That+Think+🧠"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Cool+Things+With+AI+🧠"/>
 </h1>
 
 <h3 align="center">
@@ -17,65 +18,24 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </p>
 
 # 💫 About Me
 
-```python
-class Narayan:
-
-    def __init__(self):
-        self.role = "AI & ML Student"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Automation",
-            "Creative Development",
-            "Visual Storytelling"
-        ]
-
-    def current_focus(self):
-
-        return [
-            "Emotion Detection",
-            "AI Discord Bots",
-            "Fraud Detection Systems",
-            "AI Voice Agents"
-        ]
-
-    def life(self):
-
-        return "🏋️ Gym + 💻 Code + 🎬 Creativity"
-
-
-* 🤖 Building AI-powered Discord bots with memory & automation
-* 🧠 Exploring Emotion Detection & Recommendation Systems
-* 🎙️ Developing real-time AI Voice Agents
-* 🎬 Passionate about cinematography, editing & storytelling
-* 🚀 Love creating products that feel futuristic
-* 💡 Learning fast, experimenting faster
+- 🤖 Building AI-powered Discord bots with automation & memory
+- 🧠 Exploring Emotion Detection & Recommendation Systems
+- 🎙️ Developing AI Voice Agents & Smart Assistants
+- 🎬 Passionate about editing, cinematography & storytelling
+- 🚀 Love creating futuristic tech products
+- 🏋️ Gym + 💻 Code + 🎵 Music
 
 ---
 
-# ⚡ Tech Arsenal
-
-### 💻 Languages
+# ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql"/>
-</p>
-
-### 🤖 AI / ML
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-</p>
-
-### ⚙️ Backend & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql,tensorflow,pytorch,opencv,nodejs,mongodb,git,github,vscode"/>
 </p>
 
 ---
@@ -119,27 +79,23 @@ class Narayan:
 
 <td width="50%">
 
-## 🤖 Emotion Aware Discord Bot
+### 🤖 Emotion Aware Discord Bot
 
-✨ Features:
-
-* AI Conversations
-* Emotion Detection
-* Memory System
-* MongoDB Integration
+- AI Conversations
+- Emotion Detection
+- Memory System
+- MongoDB Integration
 
 </td>
 
 <td width="50%">
 
-## 🎵 Advanced Music Bot
+### 🎵 Advanced Music Bot
 
-✨ Features:
-
-* Spotify Support
-* Audio Filters
-* Queue Management
-* Slash Commands
+- Spotify Support
+- Audio Filters
+- Queue Management
+- Slash Commands
 
 </td>
 
@@ -149,27 +105,21 @@ class Narayan:
 
 <td width="50%">
 
-## 🧬 Fraud Detection System
+### 🧬 Fraud Detection System
 
-✨ Features:
-
-* ML Pipeline
-* Real `.pkl` Models
-* Transaction Analysis
-* Data Visualization
+- ML Pipeline
+- Real `.pkl` Models
+- Transaction Analysis
 
 </td>
 
 <td width="50%">
 
-## 🎙️ AI Voice Agent
+### 🎙️ AI Voice Agent
 
-✨ Features:
-
-* Twilio Calling
-* ElevenLabs Voice
-* Calendar Automation
-* Human-like Conversations
+- Twilio Calling
+- ElevenLabs Voice
+- Smart Automation
 
 </td>
 
