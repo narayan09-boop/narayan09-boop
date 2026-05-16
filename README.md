@@ -1,16 +1,14 @@
 ````md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+%F0%9F%91%8B+I'm+Narayan;AI+%26+ML+Developer+%F0%9F%A4%96;Discord+Bot+Engineer+%F0%9F%8E%B5;Creative+Editor+%26+Storyteller+%F0%9F%8E%AC;Building+Systems+That+Think+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hey+there+👋+I'm+Narayan;AI+%26+ML+Developer+🤖;Discord+Bot+Engineer+🎵;Creative+Editor+🎬;Building+Systems+That+Think+🧠"/>
 </h1>
 
 <h3 align="center">
-  🚀 AI & ML Student | 🤖 Tech Builder | 🎬 Editor & Creative Developer
+  🚀 AI & ML Student | 🤖 Tech Builder | 🎬 Creative Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/narayan09-boop">
-    <img src="https://komarev.com/ghpvc/?username=narayan09-boop&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=narayan09-boop&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
   <img src="https://img.shields.io/github/followers/narayan09-boop?style=for-the-badge&color=8A2BE2"/>
 
@@ -19,7 +17,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 # 💫 About Me
 
@@ -28,7 +28,8 @@ class Narayan:
 
     def __init__(self):
         self.role = "AI & ML Student"
-        self.passion = [
+
+        self.interests = [
             "Artificial Intelligence",
             "Automation",
             "Creative Development",
@@ -36,6 +37,7 @@ class Narayan:
         ]
 
     def current_focus(self):
+
         return [
             "Emotion Detection",
             "AI Discord Bots",
@@ -44,7 +46,8 @@ class Narayan:
         ]
 
     def life(self):
-        return "Gym 🏋️ + Code 💻 + Creativity 🎬"
+
+        return "🏋️ Gym + 💻 Code + 🎬 Creativity"
 ````
 
 * 🤖 Building AI-powered Discord bots with memory & automation
@@ -61,19 +64,19 @@ class Narayan:
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql"/>
 </p>
 
 ### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 </p>
 
 ### ⚙️ Backend & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode"/>
 </p>
 
 ---
@@ -81,9 +84,11 @@ class Narayan:
 # 📊 GitHub Analytics
 
 <p align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narayan09-boop&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan09-boop&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </p>
 
 <p align="center">
@@ -112,6 +117,7 @@ class Narayan:
 
 <table>
 <tr>
+
 <td width="50%">
 
 ## 🤖 Emotion Aware Discord Bot
@@ -137,9 +143,11 @@ class Narayan:
 * Slash Commands
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ## 🧬 Fraud Detection System
@@ -165,6 +173,7 @@ class Narayan:
 * Human-like Conversations
 
 </td>
+
 </tr>
 </table>
 
@@ -173,7 +182,7 @@ class Narayan:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/narayan09-boop/narayan09-boop/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/narayan09-boop/narayan09-boop/output/snake.svg"/>
 </p>
 
 ---
@@ -181,17 +190,19 @@ class Narayan:
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:nk09092004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
 
-  <a href="https://github.com/narayan09-boop">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
+<a href="mailto:nk09092004@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+<a href="https://github.com/narayan09-boop">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 
 ---
