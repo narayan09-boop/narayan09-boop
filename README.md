@@ -75,21 +75,21 @@
 ## 📌 Taskora  
 Full-Stack Productivity Platform with task management, AI assistant, financial planning, Stripe integration & automated summaries.
 
-🔗 <a href="[YOUR_TASKORA_GITHUB_LINK](https://github.com/narayan09-boop/Taskora)">View Project</a>
+🔗 <a href="https://github.com/narayan09-boop/Taskora">View Project</a>
 
 <br>
 
 ## 📊 NarrativeRisk  
 AI-powered predictive loan risk platform with FastAPI backend, ETL pipelines & financial forecasting.
 
-🔗 <a href="[YOUR_NARRATIVERISK_GITHUB_LINK](https://github.com/narayan09-boop/Narrative-risk-ai)">View Project</a>
+🔗 <a href="https://github.com/narayan09-boop/Narrative-risk-ai">View Project</a>
 
 <br>
 
 ## 🤖 Project Omnix  
 Personal AI automation suite featuring voice control, emotion detection, persistent memory & system automation.
 
-🔗 <a href="[YOUR_OMNIX_GITHUB_LINK](https://github.com/narayan09-boop/project-omnix)">View Project</a>
+🔗 <a href="https://github.com/narayan09-boop/project-omnix">View Project</a>
 
 <br>
 
