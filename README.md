@@ -93,13 +93,6 @@ Personal AI automation suite featuring voice control, emotion detection, persist
 
 <br>
 
-## 🏆 Competitive Achievements
-
-- 🥇 NatWest Code For Purpose Finalist
-- 🚀 Top 53 Teams Nationwide
-- 🧠 Amazon ML Challenge Finalist
-- 📊 Top 100 Teams Nationwide
-- 🎓 Tata Steel Foundation Scholar
 
 
 
